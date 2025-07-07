@@ -8,12 +8,6 @@ export const locales = [
     alpha2Code: 'CN',
   },
   {
-    key: 'zh-TW',
-    name: '繁體中文 (台灣)',
-    flag: '🇹🇼',
-    alpha2Code: 'TW',
-  },
-  {
     key: 'zh-HK',
     name: '繁體中文 (香港)',
     flag: '🇭🇰',
