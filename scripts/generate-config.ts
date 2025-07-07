@@ -10,7 +10,7 @@ import 'dotenv/config';
 const siteMetaSchema = z.object({
   title: z.string().default('Kuma Mieru'),
   description: z.string().default('A beautiful and modern uptime monitoring dashboard'),
-  icon: z.string().default('/icon.svg'),
+  icon: z.string().default('/icon.png'),
 });
 
 const configSchema = z.object({

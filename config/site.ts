@@ -5,7 +5,7 @@ import { env } from './env';
 const baseConfig = {
   name: 'Kuma Mieru',
   description: 'A beautiful and modern uptime monitoring dashboard',
-  icon: '/icon.svg',
+  icon: '/icon.png',
 } as const;
 
 interface NavItem {

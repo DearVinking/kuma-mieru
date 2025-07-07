@@ -132,7 +132,7 @@ export const getGlobalConfig = cache(async (): Promise<GlobalConfig> => {
         slug: '',
         title: '',
         description: '',
-        icon: '/icon.svg',
+        icon: '/icon.png',
         theme: 'system',
         published: true,
         showTags: true,
